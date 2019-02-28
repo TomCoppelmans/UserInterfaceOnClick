@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coffee orderer</string>
+    <string name="chooseLabel">Choose your coffee</string>
+    <string name="quantity">Quantity</string>
+    <string name="btn1">Order!</string>
+    <string name="price">price</string>
+</resources>
